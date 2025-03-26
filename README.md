@@ -16,8 +16,8 @@ To run this project, install the dependencies listed in `requirements.txt`. Pyth
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Rahul21082004/Airline_Sentiment_Classification.git
+   cd Airline_Sentiment_Classification
 
      (or)
      
